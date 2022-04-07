@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yaminiyadav-NamshiInterview-7-4-2022/static/css/main.9f8fb57c.css",
+    "main.js": "/yaminiyadav-NamshiInterview-7-4-2022/static/js/main.014af294.js",
+    "static/js/787.28cb0dcd.chunk.js": "/yaminiyadav-NamshiInterview-7-4-2022/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/yaminiyadav-NamshiInterview-7-4-2022/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yaminiyadav-NamshiInterview-7-4-2022/index.html",
+    "main.9f8fb57c.css.map": "/yaminiyadav-NamshiInterview-7-4-2022/static/css/main.9f8fb57c.css.map",
+    "main.014af294.js.map": "/yaminiyadav-NamshiInterview-7-4-2022/static/js/main.014af294.js.map",
+    "787.28cb0dcd.chunk.js.map": "/yaminiyadav-NamshiInterview-7-4-2022/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8fb57c.css",
+    "static/js/main.014af294.js"
+  ]
+}
